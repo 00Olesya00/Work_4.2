@@ -10,8 +10,8 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
 
-        <module>Work_4.2_Server</module>
-        <module>Work_4.2_Client</module>
+        <module>Work_4_2_Server</module>
+        <module>Work_4_2_Client</module>
         <module>Work_common</module>
     </modules>
 

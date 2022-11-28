@@ -6,9 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Work_4.2_Client" />
+        <module name="Work_4_2_Client" />
+        <module name="Work_4_2_Server" />
         <module name="Work_common" />
-        <module name="Work_4.2_Server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
